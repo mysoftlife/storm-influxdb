@@ -1,1 +1,1 @@
-# storm-influxdb
+# Storm connector for InfluxDB
